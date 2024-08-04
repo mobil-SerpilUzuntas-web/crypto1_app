@@ -1,16 +1,4 @@
 # crypto1_app
+ <td><img src="https://github.com/mobil-SerpilUzuntas-web/crypto1_app/blob/master/assets/image/ara5.jpg" alt="Pokeball" width="400" height="800"></td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
